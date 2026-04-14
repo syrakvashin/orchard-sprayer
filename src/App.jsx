@@ -1,3 +1,4 @@
+import React from "react";
 import { useEffect, useMemo, useState } from 'react';
 
 const LS_MEASUREMENTS = 'sprayer_measurements_v3';
